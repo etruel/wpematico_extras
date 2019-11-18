@@ -1,2 +1,2 @@
 # wpematico_extras
-Missing functions to enforce the features in the core plugin
+Missing functions to enhance the features of the core plugin.
